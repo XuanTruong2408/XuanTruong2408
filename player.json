@@ -1,0 +1,1649 @@
+{
+    "player": [
+        {
+            "name": "Roberto Firmino",
+            "club": "Liverpool",
+            "age": "25",
+            "nationality": "Brazil",
+            "role": "SS"
+        },
+        {
+            "name": "Philippe Coutinho",
+            "club": "Liverpool",
+            "age": "25",
+            "nationality": "Brazil",
+            "role": "AM"
+        },
+        {
+            "name": "Sadio Mane",
+            "club": "Liverpool",
+            "age": "25",
+            "nationality": "Senegal",
+            "role": "LW"
+        },
+        {
+            "name": "Georginio Wijnaldum",
+            "club": "Liverpool",
+            "age": "26",
+            "nationality": "Netherlands",
+            "role": "CM"
+        },
+        {
+            "name": "James Milner",
+            "club": "Liverpool",
+            "age": "31",
+            "nationality": "England",
+            "role": "CM"
+        },
+        {
+            "name": "Adam Lallana",
+            "club": "Liverpool",
+            "age": "29",
+            "nationality": "England",
+            "role": "AM"
+        },
+        {
+            "name": "Nathaniel Clyne",
+            "club": "Liverpool",
+            "age": "26",
+            "nationality": "England",
+            "role": "RB"
+        },
+        {
+            "name": "Simon Mignolet",
+            "club": "Liverpool",
+            "age": "29",
+            "nationality": "Belgium",
+            "role": "GK"
+        },
+        {
+            "name": "Dejan Lovren",
+            "club": "Liverpool",
+            "age": "28",
+            "nationality": "Croatia",
+            "role": "CB"
+        },
+        {
+            "name": "Emre Can",
+            "club": "Liverpool",
+            "age": "23",
+            "nationality": "Germany",
+            "role": "DM"
+        },
+        {
+            "name": "Joel Matip",
+            "club": "Liverpool",
+            "age": "25",
+            "nationality": "Cameroon",
+            "role": "CB"
+        },
+        {
+            "name": "Divock Origi",
+            "club": "Liverpool",
+            "age": "22",
+            "nationality": "Belgium",
+            "role": "CF"
+        },
+        {
+            "name": "Jordan Henderson",
+            "club": "Liverpool",
+            "age": "27",
+            "nationality": "England",
+            "role": "CM"
+        },
+        {
+            "name": "Daniel Sturridge",
+            "club": "Liverpool",
+            "age": "27",
+            "nationality": "England",
+            "role": "CF"
+        },
+        {
+            "name": "Lucas Leiva",
+            "club": "Liverpool",
+            "age": "30",
+            "nationality": "Brazil",
+            "role": "DM"
+        },
+        {
+            "name": "Ragnar Klavan",
+            "club": "Liverpool",
+            "age": "31",
+            "nationality": "Estonia",
+            "role": "CB"
+        },
+        {
+            "name": "Mamadou Sakho",
+            "club": "Liverpool",
+            "age": "27",
+            "nationality": "France",
+            "role": "CB"
+        },
+        {
+            "name": "Loris Karius",
+            "club": "Liverpool",
+            "age": "24",
+            "nationality": "Germany",
+            "role": "GK"
+        },
+        {
+            "name": "Trent Alexander-Arnold",
+            "club": "Liverpool",
+            "age": "18",
+            "nationality": "England",
+            "role": "RB"
+        },
+        {
+            "name": "Alberto Moreno",
+            "club": "Liverpool",
+            "age": "25",
+            "nationality": "Spain",
+            "role": "LB"
+        },
+        {
+            "name": "Ben Woodburn",
+            "club": "Liverpool",
+            "age": "17",
+            "nationality": "Wales",
+            "role": "LW"
+        },
+        {
+            "name": "Marko Grujic",
+            "club": "Liverpool",
+            "age": "21",
+            "nationality": "Serbia",
+            "role": "CM"
+        },
+        {
+            "name": "Joe Gomez",
+            "club": "Liverpool",
+            "age": "20",
+            "nationality": "England",
+            "role": "CB"
+        },
+        {
+            "name": "Sheyi Ojo",
+            "club": "Liverpool",
+            "age": "20",
+            "nationality": "England",
+            "role": "LW"
+        },
+        {
+            "name": "Mohamed Salah",
+            "club": "Liverpool",
+            "age": "25",
+            "nationality": "Egypt",
+            "role": "RW"
+        },
+        {
+            "name": "Danny Ings",
+            "club": "Liverpool",
+            "age": "24",
+            "nationality": "England",
+            "role": "CF"
+        },
+        {
+            "name": "Dominic Solanke",
+            "club": "Liverpool",
+            "age": "19",
+            "nationality": "England",
+            "role": "CF"
+        },
+        {
+            "name": "Dele Alli",
+            "club": "Tottenham",
+            "age": "21",
+            "nationality": "England",
+            "role": "CM"
+        },
+        {
+            "name": "Harry Kane",
+            "club": "Tottenham",
+            "age": "23",
+            "nationality": "England",
+            "role": "CF"
+        },
+        {
+            "name": "Christian Eriksen",
+            "club": "Tottenham",
+            "age": "25",
+            "nationality": "Denmark",
+            "role": "AM"
+        },
+        {
+            "name": "Son Heung-min",
+            "club": "Tottenham",
+            "age": "25",
+            "nationality": "South Korea",
+            "role": "LW"
+        },
+        {
+            "name": "Hugo Lloris",
+            "club": "Tottenham",
+            "age": "30",
+            "nationality": "France",
+            "role": "GK"
+        },
+        {
+            "name": "Jan Vertonghen",
+            "club": "Tottenham",
+            "age": "30",
+            "nationality": "Belgium",
+            "role": "CB"
+        },
+        {
+            "name": "Toby Alderweireld",
+            "club": "Tottenham",
+            "age": "28",
+            "nationality": "Belgium",
+            "role": "CB"
+        },
+        {
+            "name": "Victor Wanyama",
+            "club": "Tottenham",
+            "age": "26",
+            "nationality": "Kenya",
+            "role": "DM"
+        },
+        {
+            "name": "Eric Dier",
+            "club": "Tottenham",
+            "age": "23",
+            "nationality": "England",
+            "role": "DM"
+        },
+        {
+            "name": "Ben Davies",
+            "club": "Tottenham",
+            "age": "24",
+            "nationality": "Wales",
+            "role": "LB"
+        },
+        {
+            "name": "Danny Rose",
+            "club": "Tottenham",
+            "age": "27",
+            "nationality": "England",
+            "role": "LB"
+        },
+        {
+            "name": "Mousa Dembele",
+            "club": "Tottenham",
+            "age": "30",
+            "nationality": "Belgium",
+            "role": "CM"
+        },
+        {
+            "name": "Vincent Janssen",
+            "club": "Tottenham",
+            "age": "23",
+            "nationality": "Netherlands",
+            "role": "CF"
+        },
+        {
+            "name": "Kieran Trippier",
+            "club": "Tottenham",
+            "age": "26",
+            "nationality": "England",
+            "role": "RB"
+        },
+        {
+            "name": "Moussa Sissokho",
+            "club": "Tottenham",
+            "age": "27",
+            "nationality": "France",
+            "role": "CM"
+        },
+        {
+            "name": "Harry Winks",
+            "club": "Tottenham",
+            "age": "21",
+            "nationality": "England",
+            "role": "CM"
+        },
+        {
+            "name": "Erik Lamela",
+            "club": "Tottenham",
+            "age": "25",
+            "nationality": "Argentina",
+            "role": "RW"
+        },
+        {
+            "name": "Michel Vorm",
+            "club": "Tottenham",
+            "age": "33",
+            "nationality": "Netherlands",
+            "role": "GK"
+        },
+        {
+            "name": "Georges-Kevin N%27Koudou",
+            "club": "Tottenham",
+            "age": "22",
+            "nationality": "France",
+            "role": "LW"
+        },
+        {
+            "name": "Kevin Wimmer",
+            "club": "Tottenham",
+            "age": "24",
+            "nationality": "Austria",
+            "role": "CB"
+        },
+        {
+            "name": "Romelu Lukaku",
+            "club": "Manchester+United",
+            "age": "24",
+            "nationality": "Belgium",
+            "role": "CF"
+        },
+        {
+            "name": "David de Gea",
+            "club": "Manchester+United",
+            "age": "26",
+            "nationality": "Spain",
+            "role": "GK"
+        },
+        {
+            "name": "Antonio Valencia",
+            "club": "Manchester+United",
+            "age": "31",
+            "nationality": "Ecuador",
+            "role": "RB"
+        },
+        {
+            "name": "Paul Pogba",
+            "club": "Manchester+United",
+            "age": "24",
+            "nationality": "France",
+            "role": "CM"
+        },
+        {
+            "name": "Eric Bailly",
+            "club": "Manchester+United",
+            "age": "23",
+            "nationality": "Cote d'Ivoire",
+            "role": "CB"
+        },
+        {
+            "name": "Juan Mata",
+            "club": "Manchester+United",
+            "age": "29",
+            "nationality": "Spain",
+            "role": "AM"
+        },
+        {
+            "name": "Daley Blind",
+            "club": "Manchester+United",
+            "age": "27",
+            "nationality": "Netherlands",
+            "role": "LB"
+        },
+        {
+            "name": "Ander Herrera",
+            "club": "Manchester+United",
+            "age": "27",
+            "nationality": "Spain",
+            "role": "CM"
+        },
+        {
+            "name": "Anthony Martial",
+            "club": "Manchester+United",
+            "age": "21",
+            "nationality": "France",
+            "role": "CF"
+        },
+        {
+            "name": "Marcos Rojo",
+            "club": "Manchester+United",
+            "age": "27",
+            "nationality": "Argentina",
+            "role": "CB"
+        },
+        {
+            "name": "Marcus Rashford",
+            "club": "Manchester+United",
+            "age": "19",
+            "nationality": "England",
+            "role": "CF"
+        },
+        {
+            "name": "Henrikh Mkhitaryan",
+            "club": "Manchester+United",
+            "age": "28",
+            "nationality": "Armenia",
+            "role": "AM"
+        },
+        {
+            "name": "Matteo Darmian",
+            "club": "Manchester+United",
+            "age": "27",
+            "nationality": "Italy",
+            "role": "RB"
+        },
+        {
+            "name": "Jesse Lingard",
+            "club": "Manchester+United",
+            "age": "24",
+            "nationality": "England",
+            "role": "LW"
+        },
+        {
+            "name": "Phil Jones",
+            "club": "Manchester+United",
+            "age": "25",
+            "nationality": "England",
+            "role": "CB"
+        },
+        {
+            "name": "Chris Smalling",
+            "club": "Manchester+United",
+            "age": "27",
+            "nationality": "England",
+            "role": "CB"
+        },
+        {
+            "name": "Marouane Fellaini",
+            "club": "Manchester+United",
+            "age": "29",
+            "nationality": "Belgium",
+            "role": "CM"
+        },
+        {
+            "name": "Luke Shaw",
+            "club": "Manchester+United",
+            "age": "22",
+            "nationality": "England",
+            "role": "LB"
+        },
+        {
+            "name": "Michael Carrick",
+            "club": "Manchester+United",
+            "age": "35",
+            "nationality": "England",
+            "role": "DM"
+        },
+        {
+            "name": "Ashley Young",
+            "club": "Manchester+United",
+            "age": "32",
+            "nationality": "England",
+            "role": "LM"
+        },
+        {
+            "name": "Sergio Romero",
+            "club": "Manchester+United",
+            "age": "30",
+            "nationality": "Argentina",
+            "role": "GK"
+        },
+        {
+            "name": "Axel Tuanzebe",
+            "club": "Manchester+United",
+            "age": "19",
+            "nationality": "England",
+            "role": "CB"
+        },
+        {
+            "name": "Timothy Fosu-Mensah",
+            "club": "Manchester+United",
+            "age": "19",
+            "nationality": "Netherlands",
+            "role": "DM"
+        },
+        {
+            "name": "Joel Castro Pereira",
+            "club": "Manchester+United",
+            "age": "21",
+            "nationality": "Portugal",
+            "role": "GK"
+        },
+        {
+            "name": "Victor Lindelof",
+            "club": "Manchester+United",
+            "age": "23",
+            "nationality": "Sweden",
+            "role": "CB"
+        },
+        {
+            "name": "Kevin De Bruyne",
+            "club": "Manchester+City",
+            "age": "26",
+            "nationality": "Belgium",
+            "role": "AM"
+        },
+        {
+            "name": "Sergio Aguero",
+            "club": "Manchester+City",
+            "age": "29",
+            "nationality": "Argentina",
+            "role": "CF"
+        },
+        {
+            "name": "Raheem Sterling",
+            "club": "Manchester+City",
+            "age": "22",
+            "nationality": "England",
+            "role": "LW"
+        },
+        {
+            "name": "Kyle Walker",
+            "club": "Manchester+City",
+            "age": "27",
+            "nationality": "England",
+            "role": "RB"
+        },
+        {
+            "name": "David Silva",
+            "club": "Manchester+City",
+            "age": "31",
+            "nationality": "Spain",
+            "role": "AM"
+        },
+        {
+            "name": "Leroy Sane",
+            "club": "Manchester+City",
+            "age": "21",
+            "nationality": "Germany",
+            "role": "LW"
+        },
+        {
+            "name": "Nicolas Otamendi",
+            "club": "Manchester+City",
+            "age": "29",
+            "nationality": "Argentina",
+            "role": "CB"
+        },
+        {
+            "name": "Aleksandar Kolarov",
+            "club": "Manchester+City",
+            "age": "31",
+            "nationality": "Serbia",
+            "role": "LB"
+        },
+        {
+            "name": "Yaya Toure",
+            "club": "Manchester+City",
+            "age": "34",
+            "nationality": "Cote d'Ivoire",
+            "role": "CM"
+        },
+        {
+            "name": "Fernandinho",
+            "club": "Manchester+City",
+            "age": "32",
+            "nationality": "Brazil",
+            "role": "DM"
+        },
+        {
+            "name": "Claudio Bravo",
+            "club": "Manchester+City",
+            "age": "34",
+            "nationality": "Chile",
+            "role": "GK"
+        },
+        {
+            "name": "Gabriel Jesus",
+            "club": "Manchester+City",
+            "age": "20",
+            "nationality": "Brazil",
+            "role": "CF"
+        },
+        {
+            "name": "John Stones",
+            "club": "Manchester+City",
+            "age": "23",
+            "nationality": "England",
+            "role": "CB"
+        },
+        {
+            "name": "Vincent Kompany",
+            "club": "Manchester+City",
+            "age": "31",
+            "nationality": "Belgium",
+            "role": "CB"
+        },
+        {
+            "name": "Kelechi Iheanacho",
+            "club": "Manchester+City",
+            "age": "20",
+            "nationality": "Nigeria",
+            "role": "CF"
+        },
+        {
+            "name": "Ilkay Gundogan",
+            "club": "Manchester+City",
+            "age": "26",
+            "nationality": "Germany",
+            "role": "CM"
+        },
+        {
+            "name": "Fernando",
+            "club": "Manchester+City",
+            "age": "32",
+            "nationality": "Brazil",
+            "role": "DM"
+        },
+        {
+            "name": "Fabian Delph",
+            "club": "Manchester+City",
+            "age": "27",
+            "nationality": "England",
+            "role": "CM"
+        },
+        {
+            "name": "Ederson Moraes",
+            "club": "Manchester+City",
+            "age": "23",
+            "nationality": "Brazil",
+            "role": "GK"
+        },
+        {
+            "name": "Bernardo Silva",
+            "club": "Manchester+City",
+            "age": "22",
+            "nationality": "Portugal",
+            "role": "RW"
+        },
+        {
+            "name": "Jamie Vardy",
+            "club": "Leicester+City",
+            "age": "30",
+            "nationality": "England",
+            "role": "CF"
+        },
+        {
+            "name": "Riyad Mahrez",
+            "club": "Leicester+City",
+            "age": "26",
+            "nationality": "Algeria",
+            "role": "RW"
+        },
+        {
+            "name": "Kasper Schmeichel",
+            "club": "Leicester+City",
+            "age": "30",
+            "nationality": "Denmark",
+            "role": "GK"
+        },
+        {
+            "name": "Christian Fuchs",
+            "club": "Leicester+City",
+            "age": "31",
+            "nationality": "Austria",
+            "role": "LB"
+        },
+        {
+            "name": "Marc Albrighton",
+            "club": "Leicester+City",
+            "age": "27",
+            "nationality": "England",
+            "role": "LM"
+        },
+        {
+            "name": "Robert Huth",
+            "club": "Leicester+City",
+            "age": "32",
+            "nationality": "Germany",
+            "role": "CB"
+        },
+        {
+            "name": "Danny Simpson",
+            "club": "Leicester+City",
+            "age": "30",
+            "nationality": "England",
+            "role": "RB"
+        },
+        {
+            "name": "Islam Slimani",
+            "club": "Leicester+City",
+            "age": "29",
+            "nationality": "Algeria",
+            "role": "CF"
+        },
+        {
+            "name": "Harry Maguire",
+            "club": "Leicester+City",
+            "age": "24",
+            "nationality": "England",
+            "role": "CB"
+        },
+        {
+            "name": "Danny Drinkwater",
+            "club": "Leicester+City",
+            "age": "27",
+            "nationality": "England",
+            "role": "CM"
+        },
+        {
+            "name": "Wes Morgan",
+            "club": "Leicester+City",
+            "age": "33",
+            "nationality": "Jamaica",
+            "role": "CB"
+        },
+        {
+            "name": "Shinji Okazaki",
+            "club": "Leicester+City",
+            "age": "31",
+            "nationality": "Japan",
+            "role": "CF"
+        },
+        {
+            "name": "Wilfred Ndidi",
+            "club": "Leicester+City",
+            "age": "20",
+            "nationality": "Nigeria",
+            "role": "DM"
+        },
+        {
+            "name": "Demarai Gray",
+            "club": "Leicester+City",
+            "age": "21",
+            "nationality": "England",
+            "role": "LW"
+        },
+        {
+            "name": "Daniel Amartey",
+            "club": "Leicester+City",
+            "age": "22",
+            "nationality": "Ghana",
+            "role": "DM"
+        },
+        {
+            "name": "Andy King",
+            "club": "Leicester+City",
+            "age": "28",
+            "nationality": "Wales",
+            "role": "CM"
+        },
+        {
+            "name": "Ahmed Musa",
+            "club": "Leicester+City",
+            "age": "24",
+            "nationality": "Nigeria",
+            "role": "CF"
+        },
+        {
+            "name": "Yohan Benalouane",
+            "club": "Leicester+City",
+            "age": "30",
+            "nationality": "Tunisia",
+            "role": "CB"
+        },
+        {
+            "name": "Leonardo Ulloa",
+            "club": "Leicester+City",
+            "age": "30",
+            "nationality": "Argentina",
+            "role": "CF"
+        },
+        {
+            "name": "Ben Chilwell",
+            "club": "Leicester+City",
+            "age": "20",
+            "nationality": "England",
+            "role": "LB"
+        },
+        {
+            "name": "Nampalys Mendy",
+            "club": "Leicester+City",
+            "age": "25",
+            "nationality": "France",
+            "role": "DM"
+        },
+        {
+            "name": "Ben Hamer",
+            "club": "Leicester+City",
+            "age": "29",
+            "nationality": "England",
+            "role": "GK"
+        },
+        {
+            "name": "Molla Wague",
+            "club": "Leicester+City",
+            "age": "26",
+            "nationality": "Mali",
+            "role": "CB"
+        },
+        {
+            "name": "Vicente Iborra",
+            "club": "Leicester+City",
+            "age": "29",
+            "nationality": "Spain",
+            "role": "DM"
+        },
+        {
+            "name": "Ross Barkley",
+            "club": "Everton",
+            "age": "23",
+            "nationality": "England",
+            "role": "AM"
+        },
+        {
+            "name": "Leighton Baines",
+            "club": "Everton",
+            "age": "32",
+            "nationality": "England",
+            "role": "LB"
+        },
+        {
+            "name": "Seamus Coleman",
+            "club": "Everton",
+            "age": "28",
+            "nationality": "Ireland",
+            "role": "RB"
+        },
+        {
+            "name": "Ashley Williams",
+            "club": "Everton",
+            "age": "32",
+            "nationality": "Wales",
+            "role": "CB"
+        },
+        {
+            "name": "Kevin Mirallas",
+            "club": "Everton",
+            "age": "29",
+            "nationality": "Belgium",
+            "role": "RW"
+        },
+        {
+            "name": "Michael Keane",
+            "club": "Everton",
+            "age": "24",
+            "nationality": "England",
+            "role": "CB"
+        },
+        {
+            "name": "Phil Jagielka",
+            "club": "Everton",
+            "age": "34",
+            "nationality": "England",
+            "role": "CB"
+        },
+        {
+            "name": "Jordan Pickford",
+            "club": "Everton",
+            "age": "23",
+            "nationality": "England",
+            "role": "GK"
+        },
+        {
+            "name": "Joel Robles",
+            "club": "Everton",
+            "age": "27",
+            "nationality": "Spain",
+            "role": "GK"
+        },
+        {
+            "name": "Idrissa Gueye",
+            "club": "Everton",
+            "age": "27",
+            "nationality": "Senegal",
+            "role": "CM"
+        },
+        {
+            "name": "Wayne Rooney",
+            "club": "Everton",
+            "age": "31",
+            "nationality": "England",
+            "role": "SS"
+        },
+        {
+            "name": "Ramiro Funes Mori",
+            "club": "Everton",
+            "age": "26",
+            "nationality": "Argentina",
+            "role": "CB"
+        },
+        {
+            "name": "Maarten Stekelenburg",
+            "club": "Everton",
+            "age": "34",
+            "nationality": "Netherlands",
+            "role": "GK"
+        },
+        {
+            "name": "Gareth Barry",
+            "club": "Everton",
+            "age": "36",
+            "nationality": "England",
+            "role": "DM"
+        },
+        {
+            "name": "Tom Davies",
+            "club": "Everton",
+            "age": "19",
+            "nationality": "England",
+            "role": "CM"
+        },
+        {
+            "name": "Mason Holgate",
+            "club": "Everton",
+            "age": "20",
+            "nationality": "England",
+            "role": "CB"
+        },
+        {
+            "name": "Yannick Bolasie",
+            "club": "Everton",
+            "age": "28",
+            "nationality": "Congo DR",
+            "role": "LW"
+        },
+        {
+            "name": "Morgan Schneiderlin",
+            "club": "Everton",
+            "age": "27",
+            "nationality": "France",
+            "role": "DM"
+        },
+        {
+            "name": "Cuco Martina",
+            "club": "Everton",
+            "age": "27",
+            "nationality": "Curacao",
+            "role": "RB"
+        },
+        {
+            "name": "James McCarthy",
+            "club": "Everton",
+            "age": "26",
+            "nationality": "Ireland",
+            "role": "CM"
+        },
+        {
+            "name": "Aaron Lennon",
+            "club": "Everton",
+            "age": "30",
+            "nationality": "England",
+            "role": "RW"
+        },
+        {
+            "name": "Dominic Calvert-Lewin",
+            "club": "Everton",
+            "age": "20",
+            "nationality": "England",
+            "role": "SS"
+        },
+        {
+            "name": "Ademola Lookman",
+            "club": "Everton",
+            "age": "19",
+            "nationality": "England",
+            "role": "LW"
+        },
+        {
+            "name": "Matthew Pennington",
+            "club": "Everton",
+            "age": "22",
+            "nationality": "England",
+            "role": "CB"
+        },
+        {
+            "name": "Jonjoe Kenny",
+            "club": "Everton",
+            "age": "20",
+            "nationality": "England",
+            "role": "RB"
+        },
+        {
+            "name": "Muhamed Besic",
+            "club": "Everton",
+            "age": "24",
+            "nationality": "Germany",
+            "role": "DM"
+        },
+        {
+            "name": "Davy Klaassen",
+            "club": "Everton",
+            "age": "24",
+            "nationality": "Netherlands",
+            "role": "AM"
+        },
+        {
+            "name": "Sandro Ramirez",
+            "club": "Everton",
+            "age": "22",
+            "nationality": "Spain",
+            "role": "CF"
+        },
+        {
+            "name": "Eden Hazard",
+            "club": "Chelsea",
+            "age": "26",
+            "nationality": "Belgium",
+            "role": "LW"
+        },
+        {
+            "name": "Diego Costa",
+            "club": "Chelsea",
+            "age": "28",
+            "nationality": "Spain",
+            "role": "CF"
+        },
+        {
+            "name": "Gary Cahill",
+            "club": "Chelsea",
+            "age": "31",
+            "nationality": "England",
+            "role": "CB"
+        },
+        {
+            "name": "Marcos Alonso Mendoza",
+            "club": "Chelsea",
+            "age": "26",
+            "nationality": "Spain",
+            "role": "LB"
+        },
+        {
+            "name": "Cesar Azpilicueta",
+            "club": "Chelsea",
+            "age": "27",
+            "nationality": "Spain",
+            "role": "RB"
+        },
+        {
+            "name": "Pedro",
+            "club": "Chelsea",
+            "age": "29",
+            "nationality": "Spain",
+            "role": "RW"
+        },
+        {
+            "name": "Thibaut Courtois",
+            "club": "Chelsea",
+            "age": "25",
+            "nationality": "Belgium",
+            "role": "GK"
+        },
+        {
+            "name": "David Luiz",
+            "club": "Chelsea",
+            "age": "30",
+            "nationality": "Brazil",
+            "role": "CB"
+        },
+        {
+            "name": "Cesc Fabregas",
+            "club": "Chelsea",
+            "age": "30",
+            "nationality": "Spain",
+            "role": "CM"
+        },
+        {
+            "name": "Willian",
+            "club": "Chelsea",
+            "age": "28",
+            "nationality": "Brazil",
+            "role": "RW"
+        },
+        {
+            "name": "Victor Moses",
+            "club": "Chelsea",
+            "age": "26",
+            "nationality": "Nigeria",
+            "role": "RM"
+        },
+        {
+            "name": "Nemanja Matic",
+            "club": "Chelsea",
+            "age": "28",
+            "nationality": "Serbia",
+            "role": "DM"
+        },
+        {
+            "name": "N%27Golo Kante",
+            "club": "Chelsea",
+            "age": "26",
+            "nationality": "France",
+            "role": "DM"
+        },
+        {
+            "name": "Willy Caballero",
+            "club": "Chelsea",
+            "age": "35",
+            "nationality": "Argentina",
+            "role": "GK"
+        },
+        {
+            "name": "Michy Batshuayi",
+            "club": "Chelsea",
+            "age": "23",
+            "nationality": "Belgium",
+            "role": "CF"
+        },
+        {
+            "name": "Kurt Zouma",
+            "club": "Chelsea",
+            "age": "22",
+            "nationality": "France",
+            "role": "CB"
+        },
+        {
+            "name": "Kenedy",
+            "club": "Chelsea",
+            "age": "21",
+            "nationality": "Brazil",
+            "role": "LB"
+        },
+        {
+            "name": "Eduardo Carvalho",
+            "club": "Chelsea",
+            "age": "34",
+            "nationality": "Portugal",
+            "role": "LW"
+        },
+        {
+            "name": "Antonio Rudiger",
+            "club": "Chelsea",
+            "age": "24",
+            "nationality": "Germany",
+            "role": "CB"
+        },
+        {
+            "name": "Tiemoue Bakayoko",
+            "club": "Chelsea",
+            "age": "22",
+            "nationality": "France",
+            "role": "DM"
+        },
+        {
+            "name": "Alexis Sanchez",
+            "club": "Arsenal",
+            "age": "28",
+            "nationality": "Chile",
+            "role": "LW"
+        },
+        {
+            "name": "Mesut Ozil",
+            "club": "Arsenal",
+            "age": "28",
+            "nationality": "Germany",
+            "role": "AM"
+        },
+        {
+            "name": "Petr Cech",
+            "club": "Arsenal",
+            "age": "35",
+            "nationality": "Czech Republic",
+            "role": "GK"
+        },
+        {
+            "name": "Theo Walcott",
+            "club": "Arsenal",
+            "age": "28",
+            "nationality": "England",
+            "role": "RW"
+        },
+        {
+            "name": "Laurent Koscielny",
+            "club": "Arsenal",
+            "age": "31",
+            "nationality": "France",
+            "role": "CB"
+        },
+        {
+            "name": "Hector Bellerin",
+            "club": "Arsenal",
+            "age": "22",
+            "nationality": "Spain",
+            "role": "RB"
+        },
+        {
+            "name": "Olivier Giroud",
+            "club": "Arsenal",
+            "age": "30",
+            "nationality": "France",
+            "role": "CF"
+        },
+        {
+            "name": "Nacho Monreal",
+            "club": "Arsenal",
+            "age": "31",
+            "nationality": "Spain",
+            "role": "LB"
+        },
+        {
+            "name": "Shkodran Mustafi",
+            "club": "Arsenal",
+            "age": "25",
+            "nationality": "Germany",
+            "role": "CB"
+        },
+        {
+            "name": "Alex Iwobi",
+            "club": "Arsenal",
+            "age": "21",
+            "nationality": "Nigeria",
+            "role": "LW"
+        },
+        {
+            "name": "Granit Xhaka",
+            "club": "Arsenal",
+            "age": "24",
+            "nationality": "Switzerland",
+            "role": "DM"
+        },
+        {
+            "name": "Alex Oxlade-Chamberlain",
+            "club": "Arsenal",
+            "age": "23",
+            "nationality": "England",
+            "role": "RM"
+        },
+        {
+            "name": "Jack Wilshere",
+            "club": "Arsenal",
+            "age": "25",
+            "nationality": "England",
+            "role": "CM"
+        },
+        {
+            "name": "Aaron Ramsey",
+            "club": "Arsenal",
+            "age": "26",
+            "nationality": "Wales",
+            "role": "CM"
+        },
+        {
+            "name": "Francis Coquelin",
+            "club": "Arsenal",
+            "age": "26",
+            "nationality": "France",
+            "role": "DM"
+        },
+        {
+            "name": "Gabriel Paulista",
+            "club": "Arsenal",
+            "age": "26",
+            "nationality": "Brazil",
+            "role": "CB"
+        },
+        {
+            "name": "Kieran Gibbs",
+            "club": "Arsenal",
+            "age": "27",
+            "nationality": "England",
+            "role": "LB"
+        },
+        {
+            "name": "Santi Cazorla",
+            "club": "Arsenal",
+            "age": "32",
+            "nationality": "Spain",
+            "role": "CM"
+        },
+        {
+            "name": "Danny Welbeck",
+            "club": "Arsenal",
+            "age": "26",
+            "nationality": "England",
+            "role": "CF"
+        },
+        {
+            "name": "Rob Holding",
+            "club": "Arsenal",
+            "age": "21",
+            "nationality": "England",
+            "role": "CB"
+        },
+        {
+            "name": "Mohamed Elneny",
+            "club": "Arsenal",
+            "age": "25",
+            "nationality": "Egypt",
+            "role": "DM"
+        },
+        {
+            "name": "Lucas Perez",
+            "club": "Arsenal",
+            "age": "28",
+            "nationality": "Spain",
+            "role": "CF"
+        },
+        {
+            "name": "Emiliano Martinez",
+            "club": "Arsenal",
+            "age": "24",
+            "nationality": "Argentina",
+            "role": "GK"
+        },
+        {
+            "name": "David Ospina",
+            "club": "Arsenal",
+            "age": "28",
+            "nationality": "Colombia",
+            "role": "GK"
+        },
+        {
+            "name": "Carl Jenkinson",
+            "club": "Arsenal",
+            "age": "25",
+            "nationality": "England",
+            "role": "RB"
+        },
+        {
+            "name": "Per Mertesacker",
+            "club": "Arsenal",
+            "age": "32",
+            "nationality": "Germany",
+            "role": "CB"
+        },
+        {
+            "name": "Sead Kolasinac",
+            "club": "Arsenal",
+            "age": "24",
+            "nationality": "Bosnia",
+            "role": "LB"
+        },
+        {
+            "name": "Alexandre Lacazette",
+            "club": "Arsenal",
+            "age": "26",
+            "nationality": "France",
+            "role": "CF"
+        },
+        {
+            "name": "Rob Elliot",
+            "club": "Newcastle+United",
+            "age": "31",
+            "nationality": "Ireland",
+            "role": "GK"
+        },
+        {
+            "name": "Karl Darlow",
+            "club": "Newcastle+United",
+            "age": "26",
+            "nationality": "England",
+            "role": "GK"
+        },
+        {
+            "name": "DeAndre Yedlin",
+            "club": "Newcastle+United",
+            "age": "24",
+            "nationality": "United States",
+            "role": "RB"
+        },
+        {
+            "name": "Ciaran Clark",
+            "club": "Newcastle+United",
+            "age": "27",
+            "nationality": "Ireland",
+            "role": "CB"
+        },
+        {
+            "name": "Lascelles",
+            "club": "Newcastle+United",
+            "age": "27",
+            "nationality": "England",
+            "role": "CB"
+        },
+        {
+            "name": "Paul Dummett",
+            "club": "Newcastle+United",
+            "age": "25",
+            "nationality": "Wales",
+            "role": "LB"
+        },
+        {
+            "name": "Grant Hanley",
+            "club": "Newcastle+United",
+            "age": "25",
+            "nationality": "Scotland",
+            "role": "CB"
+        },
+        {
+            "name": "Jesus Gamez",
+            "club": "Newcastle+United",
+            "age": "32",
+            "nationality": "Spain",
+            "role": "RB"
+        },
+        {
+            "name": "Florian Lejeune",
+            "club": "Newcastle+United",
+            "age": "26",
+            "nationality": "France",
+            "role": "CB"
+        },
+        {
+            "name": "Massadio Haidara",
+            "club": "Newcastle+United",
+            "age": "24",
+            "nationality": "France",
+            "role": "LB"
+        },
+        {
+            "name": "Matt Ritchie",
+            "club": "Newcastle+United",
+            "age": "27",
+            "nationality": "Scotland",
+            "role": "RM"
+        },
+        {
+            "name": "Jonjo Shelvey",
+            "club": "Newcastle+United",
+            "age": "25",
+            "nationality": "England",
+            "role": "CM"
+        },
+        {
+            "name": "Mohamed Diame",
+            "club": "Newcastle+United",
+            "age": "30",
+            "nationality": "Senegal",
+            "role": "CM"
+        },
+        {
+            "name": "Jack Colback",
+            "club": "Newcastle+United",
+            "age": "27",
+            "nationality": "England",
+            "role": "DM"
+        },
+        {
+            "name": "Christian Atsu",
+            "club": "Newcastle+United",
+            "age": "25",
+            "nationality": "Ghana",
+            "role": "RW"
+        },
+        {
+            "name": "Siem de Jong",
+            "club": "Newcastle+United",
+            "age": "28",
+            "nationality": "Netherlands",
+            "role": "AM"
+        },
+        {
+            "name": "Rolando Aarons",
+            "club": "Newcastle+United",
+            "age": "21",
+            "nationality": "England",
+            "role": "LW"
+        },
+        {
+            "name": "Dwight Gayle",
+            "club": "Newcastle+United",
+            "age": "26",
+            "nationality": "England",
+            "role": "CF"
+        },
+        {
+            "name": "Ayoze Perez",
+            "club": "Newcastle+United",
+            "age": "23",
+            "nationality": "Spain",
+            "role": "SS"
+        },
+        {
+            "name": "Aleksandar Mitrovic",
+            "club": "Newcastle+United",
+            "age": "22",
+            "nationality": "Serbia",
+            "role": "CF"
+        },
+        {
+            "name": "Daryl Murphy",
+            "club": "Newcastle+United",
+            "age": "34",
+            "nationality": "Ireland",
+            "role": "CF"
+        },
+        {
+            "name": "Robert Snodgrass",
+            "club": "West+Ham",
+            "age": "29",
+            "nationality": "Scotland",
+            "role": "RW"
+        },
+        {
+            "name": "Manuel Lanzini",
+            "club": "West+Ham",
+            "age": "24",
+            "nationality": "Argentina",
+            "role": "AM"
+        },
+        {
+            "name": "Michail Antonio",
+            "club": "West+Ham",
+            "age": "27",
+            "nationality": "England",
+            "role": "RW"
+        },
+        {
+            "name": "Winston Reid",
+            "club": "West+Ham",
+            "age": "29",
+            "nationality": "New Zealand",
+            "role": "CB"
+        },
+        {
+            "name": "Jose Fonte",
+            "club": "West+Ham",
+            "age": "33",
+            "nationality": "Portugal",
+            "role": "CB"
+        },
+        {
+            "name": "Andre Ayew",
+            "club": "West+Ham",
+            "age": "27",
+            "nationality": "Ghana",
+            "role": "LW"
+        },
+        {
+            "name": "Cheikhou Kouyate",
+            "club": "West+Ham",
+            "age": "27",
+            "nationality": "Senegal",
+            "role": "DM"
+        },
+        {
+            "name": "Mark Noble",
+            "club": "West+Ham",
+            "age": "30",
+            "nationality": "England",
+            "role": "CM"
+        },
+        {
+            "name": "Darren Randolph",
+            "club": "West+Ham",
+            "age": "30",
+            "nationality": "Ireland",
+            "role": "GK"
+        },
+        {
+            "name": "James Collins",
+            "club": "West+Ham",
+            "age": "33",
+            "nationality": "Wales",
+            "role": "CB"
+        },
+        {
+            "name": "Andy Carroll",
+            "club": "West+Ham",
+            "age": "28",
+            "nationality": "England",
+            "role": "CF"
+        },
+        {
+            "name": "Adrian",
+            "club": "West+Ham",
+            "age": "30",
+            "nationality": "Spain",
+            "role": "GK"
+        },
+        {
+            "name": "Aaron Cresswell",
+            "club": "West+Ham",
+            "age": "27",
+            "nationality": "England",
+            "role": "LB"
+        },
+        {
+            "name": "Pedro Obiang",
+            "club": "West+Ham",
+            "age": "25",
+            "nationality": "Spain",
+            "role": "CM"
+        },
+        {
+            "name": "Sofiane Feghouli",
+            "club": "West+Ham",
+            "age": "27",
+            "nationality": "Algeria",
+            "role": "RW"
+        },
+        {
+            "name": "Angelo Ogbonna",
+            "club": "West+Ham",
+            "age": "29",
+            "nationality": "Italy",
+            "role": "CB"
+        },
+        {
+            "name": "Pablo Zabaleta",
+            "club": "West+Ham",
+            "age": "32",
+            "nationality": "Argentina",
+            "role": "RB"
+        },
+        {
+            "name": "Edimilson Fernandes",
+            "club": "West+Ham",
+            "age": "21",
+            "nationality": "Switzerland",
+            "role": "CM"
+        },
+        {
+            "name": "Arthur Masuaku",
+            "club": "West+Ham",
+            "age": "23",
+            "nationality": "Congo DR",
+            "role": "LB"
+        },
+        {
+            "name": "Sam Byram",
+            "club": "West+Ham",
+            "age": "23",
+            "nationality": "England",
+            "role": "RB"
+        },
+        {
+            "name": "Ashley Fletcher",
+            "club": "West+Ham",
+            "age": "21",
+            "nationality": "England",
+            "role": "CF"
+        },
+        {
+            "name": "Diafra Sakho",
+            "club": "West+Ham",
+            "age": "27",
+            "nationality": "Senegal",
+            "role": "CF"
+        }
+    ]
+}
